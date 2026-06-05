@@ -1,0 +1,6 @@
+{
+  "name": "PDF to Word File Converter",
+  "description": "High-fidelity PDF to Word converter with layout preservation, rich previews, multi-language support (RU, KK, EN), and AI-driven structure extraction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
